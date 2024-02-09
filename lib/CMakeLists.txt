@@ -1,0 +1,1 @@
+add_library(sandmodel sand_model.cpp sand_model.h)

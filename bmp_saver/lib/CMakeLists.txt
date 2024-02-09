@@ -1,0 +1,1 @@
+add_library(bmp_saver bmp_file.cpp bmp_file.h)
